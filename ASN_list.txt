@@ -8,3 +8,4 @@ AS394711 | -Reserved AS-
 AS47913 | MIS-AS - Moshonkin Ilia Sergeevich
 AS51381 | ELITETEAM-PEERING-AZ1 - 1337TEAM LIMITED
 AS64236 | UNREAL-SERVERS
+Spamhaus DROP | Curated IP blocks associated with known abuse (https://www.spamhaus.org/drop/)

@@ -2,3 +2,13 @@
 Simple ASN scraper for mass blocks of low-rep/low-regret ASNs.  Mostly VPS and assorted bulletproof/crime.
 ![image](https://github.com/user-attachments/assets/cc7fcd59-be40-4c5f-b291-9814604261e1)
 
+This repository maintains an up-to-date collection of IP address blocks associated with a curated list of Autonomous System Numbers (ASNs) known for low reputation or suspicious activity.  It is refreshed daily.  If you would like to add an ASN to this list, please reach out to https://bsky.app/profile/mattysplo.it 
+
+Files
+THEBLACKWALL.txt
+A consolidated list of IP address ranges associated with the monitored ASNs. This file is regularly updated to reflect changes in network allocations.
+
+asn_list.txt
+A reference list of the ASNs included in this blocklist, along with their registered organization names. This helps identify the entities behind the IP blocks.
+
+The purpose of this repository is to provide a reliable, automatically refreshed source of network blocks for use in security monitoring, network filtering, or threat intelligence workflows.

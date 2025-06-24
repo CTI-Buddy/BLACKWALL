@@ -8,10 +8,10 @@ The intent is to keep it to only known-bad ASNs that most orgs can get away with
 I'm also just some guy on the internet, why are you trusting me with your blocklists?
 
 ## Files
-THEBLACKWALL.txt
+### THEBLACKWALL.txt
 A consolidated list of IP address ranges associated with the monitored ASNs. This file is regularly updated to reflect changes in network allocations.
 
-asn_list.txt
+### asn_list.txt
 A reference list of the ASNs included in this blocklist, along with their registered organization names. This helps identify the entities behind the IP blocks.
 
 The purpose of this repository is to provide a reliable, automatically refreshed source of network blocks for use in security monitoring, network filtering, or threat intelligence workflows.

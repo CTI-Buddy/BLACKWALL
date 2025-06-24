@@ -5,7 +5,7 @@ Simple ASN scraper for mass blocks of low-rep/low-regret ASNs.  Mostly VPS and a
 This repository maintains an up-to-date collection of IP address blocks associated with a curated list of Autonomous System Numbers (ASNs) known for low reputation or suspicious activity.  It is refreshed daily.  If you would like to add an ASN to this list, please reach out to https://bsky.app/profile/mattysplo.it 
 
 The intent is to keep it to only known-bad ASNs that most orgs can get away with blocking outright.  If you are not sure if that is you, do not use this.
-It is essentially a more aggressive version of Spamhaus' "Don't Route or Peer Lists" (DROP).  This includes that dataset and layers on a few more manually curated.  Use Spamhaus for higher trust and fidelity.
+It is essentially a more aggressive version of [Spamhaus' "Don't Route or Peer Lists" (DROP)](https://www.spamhaus.org/blocklists/do-not-route-or-peer/).  This includes that dataset and layers on a few more manually curated.  Use Spamhaus for higher trust and fidelity.
 I'm also just some guy on the internet, why are you trusting me with your blocklists?
 
 ## Files

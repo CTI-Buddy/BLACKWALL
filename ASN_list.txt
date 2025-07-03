@@ -1,6 +1,8 @@
+AS134544 | CENBONGT-AS-AP Cenbong Intl Holdings Limited
 AS16276 | OVH - OVH SAS
 AS198953 | PROTON66 - Proton66 OOO
 AS20473 | AS-VULTR
+AS20485 | TRANSTELECOM - Joint Stock Company TransTeleCom
 AS210644 | AEZA-AS - AEZA INTERNATIONAL LTD
 AS215479 | PERFECTO-AS - Perfecto Consultoria E Apoio Administrativo LTDA
 AS24940 | HETZNER-AS - Hetzner Online GmbH

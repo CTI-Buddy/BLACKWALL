@@ -8,7 +8,7 @@ AS213702 | QWINS-LTD - QWINS LTD
 AS215479 | PERFECTO-AS - Perfecto Consultoria E Apoio Administrativo LTDA
 AS24940 | HETZNER-AS - Hetzner Online GmbH
 AS35048 | BITERIKA-AS - Biterika Group LLC
-AS394711 | --MISSING--
+AS394711 | KORGRID
 AS40676 | AS40676
 AS42624 | SWISSNETWORK02 - Global-Data System IT Corporation
 AS47913 | MIS-AS - Moshonkin Ilia Sergeevich

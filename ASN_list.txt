@@ -1,7 +1,7 @@
 AS134544 | CENBONGT-AS-AP Cenbong Intl Holdings Limited
 AS16276 | OVH - OVH SAS
 AS198953 | PROTON66 - Proton66 OOO
-AS20473 | AS-VULTR
+AS20473 | AS-VULTR - The Constant Company
 AS20485 | TRANSTELECOM - Joint Stock Company TransTeleCom
 AS210644 | AEZA-AS - AEZA INTERNATIONAL LTD
 AS213702 | QWINS-LTD - QWINS LTD
@@ -10,10 +10,10 @@ AS214943 | RAILNET - Railnet LLC
 AS215479 | PERFECTO-AS - Perfecto Consultoria E Apoio Administrativo LTDA
 AS24940 | HETZNER-AS - Hetzner Online GmbH
 AS35048 | BITERIKA-AS - Biterika Group LLC
-AS394711 | KORGRID
-AS40676 | AS40676
+AS394711 | KORGRID - KorGrid
+AS40676 | AS40676 - Psychz Networks
 AS42624 | SWISSNETWORK02 - Global-Data System IT Corporation
 AS47913 | MIS-AS - Moshonkin Ilia Sergeevich
 AS51381 | ELITETEAM-PEERING-AZ1 - 1337TEAM LIMITED
-AS64236 | UNREAL-SERVERS
+AS64236 | UNREAL-SERVERS - UnReal Servers
 Spamhaus DROP | Curated IP blocks associated with known abuse (https://www.spamhaus.org/drop/)

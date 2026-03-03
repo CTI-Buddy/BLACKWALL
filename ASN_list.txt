@@ -10,7 +10,7 @@ AS214943 | Unknown
 AS215479 | Unknown
 AS24940 | HETZNER-AS - Hetzner Online GmbH
 AS35048 | BITERIKA-AS - Biterika Group LLC
-AS394711 | 
+AS394711 | KORGRID - KorGrid
 AS40676 | AS40676 - Psychz Networks
 AS42624 | SWISSNETWORK02 - Global-Data System IT Corporation
 AS47913 | MIS-AS - Moshonkin Ilia Sergeevich

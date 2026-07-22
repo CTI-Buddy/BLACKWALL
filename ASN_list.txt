@@ -15,5 +15,5 @@ AS40676 | AS40676 - Psychz Networks
 AS42624 | 
 AS47913 | MIS-AS Moshonkin Ilia Sergeevich
 AS51381 | ELITETEAM-PEERING-AZ1 1337TEAM LIMITED
-AS64236 | UNREAL-SERVERS - UnReal Servers, LLC
+AS64236 | 
 Spamhaus DROP | Curated IP blocks associated with known abuse (https://www.spamhaus.org/drop/)
